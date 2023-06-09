@@ -9,6 +9,7 @@ The purpose of this paper is to enable smarter ESG investment, which allows inve
 In the final leg of the project, we are tasked to produce the outputs of the model and all its relevant information in a terminal accessible to all. We have decided to use the Dash framework to create an interface accessible through an URL that would access the backend Python code which would in turn be computing the distribution of the intensity variable based on the User Inputs from the interface and then would reflect the results on the website. The files required to run the models and the interface are listed below.
 
 Step 1: Run the “Models.ipynb” 
+
 Step 2: Run the “main.py” with the pickle files (“modelNN.pickle” , “indDict.pickle”)
 Step 3: Step 2 would generate the link for the interface
 Step 4: Click on the link to interact with the interface
