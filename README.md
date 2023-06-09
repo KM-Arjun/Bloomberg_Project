@@ -11,7 +11,9 @@ In the final leg of the project, we are tasked to produce the outputs of the mod
 Step 1: Run the “Models.ipynb” 
 
 Step 2: Run the “main.py” with the pickle files (“modelNN.pickle” , “indDict.pickle”)
+
 Step 3: Step 2 would generate the link for the interface
+
 Step 4: Click on the link to interact with the interface
 
 
